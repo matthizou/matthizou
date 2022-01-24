@@ -21,10 +21,10 @@
 
 - 👨‍💻 I am currently currently working in a cool company in Barcelona, [Typeform](https://www.typeform.com).  
   I am part of the frontend architecture team, a platform team specialized supporting the 10+ product teams by providing guidelines, reasearching and introducing new tech, providing tooling to compile and deploy seamlessly, and a whole bunch more of tasks. [See more on my linkedIn profile](https://www.linkedin.com/in/matt-izoulet-44b446153/details/experience/)
-- 🧪 Some of my presonnal projects involve:
+- 🧪 Some of my personal projects involve:
 
   - writing codemods to refactor entire code bases
-  - writing scripts to gather metrics - and display them in beautiful graphs 📊 -
+  - writing scripts to gather metrics - and display them in beautiful graphs 📊
   - [enhancing webpages with Chrome extensions](https://github.com/matthizou/github-show-avatars#readme)
   - [writing cool Vscode plugins](https://github.com/matthizou/vscode-translation-keys-lookup#readme)
 
@@ -42,10 +42,6 @@
 
 ---
 
-## Temporarily on this page - for the migracode workshop
+## Resources
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthizou&show_icons=true&locale=en&layout=compact" alt="matthizou" /></p>
-<br/>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthizou&show_icons=true&locale=en" alt="matthizou" /></p>
+<a href="https://github.com/matthizou/matthizou/blob/main/resources.md" target="_blank">Resources</a>
